@@ -13,12 +13,6 @@
 ## 🎯 Objetivo
 Estou em constante aprendizado e busco entregar projetos de alta qualidade, respeitando prazos e superando expectativas. Se você tem um projeto em mente, ficarei feliz em colaborar com você!
 
----
-
-## 📂 Projetos em destaque
-Aqui estão alguns exemplos do meu trabalho (adicione os links para seus repositórios):  
-- [**Projeto 1**](#) - Breve descrição do projeto.
-- [**Projeto 2**](#) - Breve descrição do projeto.
 
 ---
 
