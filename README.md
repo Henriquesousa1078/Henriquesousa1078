@@ -22,8 +22,7 @@ Se você precisa de um desenvolvedor para o seu próximo projeto, entre em conta
 📸 Siga-me no Instagram:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique._dev/)
 
-🌐 [Meu Portfólio](https://portifoliohenrique1078.netlify.app) *(adicione o link se tiver)*
-
+🌐 [Meu Portfólio](https://portifoliohenrique1078.netlify.app)
 
 ---
 
