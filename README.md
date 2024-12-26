@@ -19,8 +19,8 @@ Estou em constante aprendizado e busco entregar projetos de alta qualidade, resp
 ## 📬 Vamos conversar?
 Se você precisa de um desenvolvedor para o seu próximo projeto, entre em contato comigo:  
 📧 **Email**: [henriquesousa107890@gmail.com](mailto:henriquesousa107890@gmail.com)  
-💼 [Meu LinkedIn](#) *(adicione seu perfil se tiver)*  
-🌐 [Meu Portfólio](#) *(adicione o link se tiver)*
+📸 Siga-me no Instagram:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique._dev/)
 
 ---
 
