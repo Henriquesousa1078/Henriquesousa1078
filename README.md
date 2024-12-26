@@ -1,16 +1,42 @@
-### Hi there 👋
+# Henrique Sousa Santos 🌟  
+👋 Olá! Sou Henrique, um desenvolvedor Front-End iniciante com uma grande paixão por criar interfaces incríveis e funcionais. Estou focado em projetos como freelancer e trabalho com as principais tecnologias web: **HTML**, **CSS** e **JavaScript**.
 
-<!--
-**Henriquesousa1078/Henriquesousa1078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 O que eu faço:
+- **Desenvolvimento de sites responsivos**: Garantindo que os projetos funcionem bem em qualquer dispositivo.
+- **Criação de interfaces dinâmicas**: Usando JavaScript para trazer vida às páginas.
+- **Estilo personalizado**: Construindo designs únicos e visualmente atraentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objetivo
+Estou em constante aprendizado e busco entregar projetos de alta qualidade, respeitando prazos e superando expectativas. Se você tem um projeto em mente, ficarei feliz em colaborar com você!
+
+---
+
+## 📂 Projetos em destaque
+Aqui estão alguns exemplos do meu trabalho (adicione os links para seus repositórios):  
+- [**Projeto 1**](#) - Breve descrição do projeto.
+- [**Projeto 2**](#) - Breve descrição do projeto.
+
+---
+
+## 📬 Vamos conversar?
+Se você precisa de um desenvolvedor para o seu próximo projeto, entre em contato comigo:  
+📧 **Email**: [henriquesousa107890@gmail.com](mailto:henriquesousa107890@gmail.com)  
+💼 [Meu LinkedIn](#) *(adicione seu perfil se tiver)*  
+🌐 [Meu Portfólio](#) *(adicione o link se tiver)*
+
+---
+
+## 📈 Aprendizado constante
+Atualmente, estou estudando e aprimorando minhas habilidades em:  
+- **JavaScript avançado**  
+- **Frameworks Front-End (React, Vue)** *(planejando aprender em breve)*  
+- **Práticas modernas de desenvolvimento web**
+
+---
+
+Obrigado por visitar o meu perfil! 😊  
+Sinta-se à vontade para explorar meus repositórios e compartilhar feedback.  
