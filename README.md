@@ -50,9 +50,8 @@ Sou dedicado a aprender continuamente e a manter-me atualizado com as últimas t
 
 ## 🔗 Conecte-se Comigo
 
-- 📧 Email: [seu.email@example.com](henriquesdev3013@gmail.com)
+- 📧 Email: [henriquesdev3013@gmail.com](henriquesdev3013@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- 🐦 Twitter: [@seu_twitter](https://twitter.com)
 - 🌐 Portfólio: [seu-portfolio.com](https://example.com)
 
 ---
@@ -67,8 +66,8 @@ Veja meus repositórios abaixo para conhecer melhor meu trabalho:
 
 ## 🎓 Formação & Certificações
 
-- 🎯 Projetos em Engenharia de Prompts e Aplicações com IA
-- 📚 Desenvolvimento contínuo em tecnologias modernas
+- 🎯 Engenharia de software
+- 📚 DevClub
 
 ---
 
