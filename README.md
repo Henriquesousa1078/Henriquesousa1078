@@ -42,8 +42,6 @@ Sou dedicado a aprender continuamente e a manter-me atualizado com as últimas t
 ## ⭐ Destaques
 
 - ✅ **Qualidade de Código** - Valorizo boas práticas e código limpo
-- 🤝 **Colaboração** - Adoro trabalhar em equipe e contribuir para projetos open source
-- 📖 **Documentação** - Acredito em documentação clara e objetiva
 - 🔄 **Aprendizado Contínuo** - Sempre buscando melhorar e aprender novas habilidades
 
 ---
