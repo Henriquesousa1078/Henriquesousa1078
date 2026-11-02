@@ -1,80 +1,26 @@
-# Henrique Sousa Santos 🌟  
-👋 Olá! Sou Henrique, um desenvolvedor Front-End iniciante com uma grande paixão por criar interfaces funcionais. Estou focado em trabalho com as principais tecnologias web: **HTML**, **CSS** e **JavaScript**.
+# Olá, eu sou o Henrique 👋
+
+Estudante de Engenharia de Software no Brasil 🇧🇷, em busca da minha primeira oportunidade de **estágio** na área de tecnologia.
+
+## 🎯 Objetivo
+
+- 📌 Conquistar um estágio em desenvolvimento de software
+- 🚀 Construir minha carreira como **Desenvolvedor Back-end Java**
+- 🤝 Aprender com times experientes e crescer junto com eles
+
+## 📂 Projetos
+
+Os repositórios fixados aqui no perfil mostram o que venho construindo durante a graduação. Cada um tem um README explicando o objetivo e como executar.
+
+## 🌱 Neste momento
+
+Estudando, praticando e evoluindo um pouco a cada dia, com foco em me preparar para o mercado.
+
+## 📫 Vamos conversar?
+
+- 💼 LinkedIn: [www.linkedin.com/in/henrique-sousa-santos]
+- 📧 E-mail: [henriquesdev3013@gmail.com]
 
 ---
 
-## 🚀 O que eu faço:
-- **Desenvolvimento de sites responsivos**: Garantindo que os projetos funcionem bem em qualquer dispositivo.
-- **Criação de interfaces dinâmicas**: Usando JavaScript para trazer vida às páginas.
-- **Estilo personalizado**: Construindo designs únicos e visualmente atraentes.
-
----
-
-## 🚀 Sobre Mim
-
-Sou dedicado a aprender continuamente e a manter-me atualizado com as últimas tendências tecnológicas. Acredito que a melhor forma de crescer é através da prática, colaboração e compartilhamento de conhecimento com a comunidade.
-
-- 💻 Desenvolvedor em constante aprendizado
-- 🤖 Interessado em IA e Engenharia de Prompts
-- 🎯 Focado em criar código limpo e eficiente
-- 📚 Sempre explorando novas tecnologias
-
----
-
-## 🛠️ Stack Tecnológico
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📊 Minhas Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriquesousa1078&show_icons=true&theme=dark&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquesousa1078&layout=compact&theme=dark&locale=pt-br)
-
----
-
-## ⭐ Destaques
-
-- ✅ **Qualidade de Código** - Valorizo boas práticas e código limpo
-- 🔄 **Aprendizado Contínuo** - Sempre buscando melhorar e aprender novas habilidades
-
----
-
-## 🔗 Conecte-se Comigo
-
-- 📧 Email: [henriquesdev3013@gmail.com](henriquesdev3013@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- 🌐 Portfólio: [seu-portfolio.com](https://example.com)
-
----
-
-## 📁 Projetos em Destaque
-
-Veja meus repositórios abaixo para conhecer melhor meu trabalho:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Henriquesousa1078&repo=Engenharia_de_Prompt_Aplicacoes_AI&theme=dark)](https://github.com/Henriquesousa1078/Engenharia_de_Prompt_Aplicacoes_AI)
-
----
-
-## 🎓 Formação & Certificações
-
-- 🎯 Engenharia de software
-- 📚 DevClub
-
----
-
-<div align="center">
-
-**Obrigado por visitar meu perfil! 🙏**
-
-*"A melhor forma de prever o futuro é criá-lo."* 💡
-
-![Profile Views](https://komarev.com/ghpvc/?username=Henriquesousa1078&color=blue)
-
-</div>
+⭐ Fique à vontade para explorar meus repositórios e deixar um feedback!
