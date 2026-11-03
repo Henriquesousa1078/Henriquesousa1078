@@ -18,8 +18,8 @@ Estudando, praticando e evoluindo um pouco a cada dia, com foco em me preparar p
 
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: [www.linkedin.com/in/henrique-sousa-santos]
-- 📧 E-mail: [henriquesdev3013@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/henrique-sousa-santos
+- 📧 E-mail: henriquesdev3013@gmail.com
 
 ---
 
